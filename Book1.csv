@@ -1,0 +1,101 @@
+﻿bookid,title ,author,genra,rating
+#0001,To Kill a Mockingbird,Harper Lee,"Fiction, Classics",4.28
+#0002,1984,George Orwell,"Fiction, Dystopian",4.18
+#0003,Pride and Prejudice,Jane Austen,"Fiction, Romance, Classics",4.27
+#0004,The Great Gatsby,Scott Fitzgerald,"Fiction, Classics",3.93
+#0005,Moby-Dick,Herman Melville,"Fiction, Adventure, Classics",3.51
+#0006,War and Peace,Leo Tolstoy,"Fiction, Historical, Classics",4.11
+#0007,Jane Eyre,Charlotte Brontë,"Fiction, Romance, Classics",4.14
+#0008,The Catcher in the Rye,J.D. Salinger,"Fiction, Classics",3.81
+#0009,Crime and Punishment,Fyodor Dostoevsky,"Fiction, Psychological, Classics",4.26
+#0010,The Brothers Karamazov,Fyodor Dostoevsky,"Fiction, Philosophical, Classics",4.34
+#0011,Anna Karenina,Leo Tolstoy,"Fiction, Romance, Classics",4.07
+#0012,Brave New World,Aldous Huxley,"Fiction, Dystopian, Science Fiction",3.99
+#0013,Wuthering Heights,Emily Brontë,"Fiction, Romance, Classics",3.88
+#0014,The Odyssey,Homer,"Fiction, Classics, Epic Poetry",3.76
+#0015,Frankenstein,Mary Shelley,"Fiction, Gothic, Science Fiction",3.84
+#0016,The Divine Comedy,Dante Alighieri,"Fiction, Classics, Poetry",4.1
+#0017,The Iliad,Homer,"Fiction, Classics, Epic Poetry",3.88
+#0018,Les Misérables,Victor Hugo,"Fiction, Historical, Classics",4.36
+#0019,Great Expectations,Charles Dickens,"Fiction, Classics",3.79
+#0020,Dracula,Bram Stoker,"Fiction, Horror, Classics",3.99
+#0021,The Hobbit,J.R.R. Tolkien,"Fiction, Fantasy",4.27
+#0022,Fahrenheit 451,Ray Bradbury,"Fiction, Dystopian, Science Fiction",3.99
+#0023,Don Quixote,Miguel de Cervantes,"Fiction, Classics, Adventure",3.87
+#0024,The Picture of Dorian Gray,Oscar Wilde,"Fiction, Classics, Gothic",4.1
+#0025,One Hundred Years of Solitude,Gabriel García Márquez,"Fiction, Magical Realism",4.11
+#0026,The Adventures of Huckleberry Finn,Mark Twain,"Fiction, Adventure, Classics",3.82
+#0027,Alice's Adventures in Wonderland,Lewis Carroll,"Fiction, Fantasy, Classics",4.03
+#0028,Catch-22,Joseph Heller,"Fiction, War, Satire",3.98
+#0029,The Lord of the Rings,R.R. Tolkien,"Fiction, Fantasy, Adventure",4.49
+#0030,The Grapes of Wrath,John Steinbeck,"Fiction, Classics",3.96
+#0031,Lolita,Vladimir Nabokov,"Fiction, Classics",3.91
+#0032,Beloved,Toni Morrison,"Fiction, Historical, Classics",3.93
+#0033,Slaughterhouse-Five,Kurt Vonnegut,"Fiction, Science Fiction, War",4.09
+#0034,The Alchemist,Paulo Coelho,"Fiction, Fantasy, Philosophy",3.88
+#0035,Moby-Dick,Herman Melville,"Fiction, Adventure, Classics",3.51
+#0036,Little Women,Louisa May Alcott,"Fiction, Classics",4.07
+#0037,Jane Eyre,Charlotte Brontë,"Fiction, Romance, Classics",4.14
+#0038,The Road,Cormac McCarthy,"Fiction, Post-Apocalyptic",4.07
+#0039,Gone with the Wind,Margaret Mitchell,"Fiction, Historical, Classics",4.31
+#0040,Harry Potter and the Sorcerer's Stone,J.K. Rowling,"Fiction, Fantasy, Young Adult",4.48
+#0041,A Tale of Two Cities,Charles Dickens,"Fiction, Historical, Classics",3.84
+#0042,The Kite Runner,Khaled Hosseini,"Fiction, Historical, Drama",4.32
+#0043,Middlemarch,George Eliot,"Fiction, Classics",4.01
+#0044,The Count of Monte Cristo,Alexandre Dumas,"Fiction, Adventure, Classics",4.27
+#0045,The Sun Also Rises,Ernest Hemingway,"Fiction, Classics",3.84
+#0046,Rebecca,Daphne du Maurier,"Fiction, Mystery, Classics",4.22
+#0047,On the Road,Jack Kerouac,"Fiction, Classics, Travel",3.64
+#0048,The Hitchhiker's Guide to the Galaxy,Douglas Adams,"Fiction, Science Fiction, Humor",4.21
+#0049,The Handmaid's Tale,Margaret Atwood,"Fiction, Dystopian, Science Fiction",4.12
+#0050,The Stranger,Albert Camus,"Fiction, Classics, Philosophy",4.03
+#0051,One Flew Over the Cuckoo's Nest,Ken Kesey,"Fiction, Classics",4.19
+#0052,The Secret Garden,Frances Hodgson Burnett,"Fiction, Children's, Classics",4.15
+#0053,The Wind-Up Bird Chronicle,Haruki Murakami,"Fiction, Magical Realism",4.19
+#0054,Lolita,Vladimir Nabokov,"Fiction, Classics",3.91
+#0055,Ulysses,James Joyce,"Fiction, Classics",3.75
+#0056,The Shining,Stephen King,"Fiction, Horror",4.24
+#0057,To the Lighthouse,Virginia Woolf,"Fiction, Classics",3.93
+#0058,The Bell Jar,Sylvia Plath,"Fiction, Classics",4.08
+#0059,A Clockwork Orange,Anthony Burgess,"Fiction, Dystopian, Classics",3.99
+#0060,Life of Pi,Yann Martel,"Fiction, Adventure, Fantasy",3.93
+#0061,Invisible Man,Ralph Ellison,"Fiction, Classics",4.21
+#0062,The Call of the Wild,Jack London,"Fiction, Adventure, Classics",3.89
+#0063,The Book Thief,Markus Zusak,"Fiction, Historical, Young Adult",4.38
+#0064,Dune,Frank Herbert,"Fiction, Science Fiction",4.25
+#0065,Gulliver's Travels,Jonathan Swift,"Fiction, Adventure, Classics",3.58
+#0066,The Help,Kathryn Stockett,"Fiction, Historical",4.46
+#0067,The Scarlet Letter,Nathaniel Hawthorne,"Fiction, Classics",3.43
+#0068,The Metamorphosis,Franz Kafka,"Fiction, Classics, Fantasy",3.81
+#0069,The Catcher in the Rye,J.D. Salinger,"Fiction, Classics",3.81
+#0070,The Secret History,Donna Tartt,"Fiction, Mystery",4.13
+#0071,Heart of Darkness,Joseph Conrad,"Fiction, Classics",3.42
+#0072,The Little Prince,Antoine de Saint-Exupéry,"Fiction, Fantasy, Children's",4.31
+#0073,The Road,Cormac McCarthy,"Fiction, Post-Apocalyptic",4.07
+#0074,White Teeth,Zadie Smith,"Fiction, Contemporary",3.8
+#0075,The Old Man and the Sea,Ernest Hemingway,"Fiction, Classics",3.79
+#0076,The Great Gatsby,F. Scott Fitzgerald,"Fiction, Classics",3.93
+#0077,The Adventures of Tom Sawyer,Mark Twain,"Fiction, Adventure, Classics",3.95
+#0078,The Grapes of Wrath,John Steinbeck,"Fiction, Classics",3.96
+#0079,Brave New World,Aldous Huxley,"Fiction, Dystopian, Science Fiction",3.99
+#0080,One Hundred Years of Solitude,Gabriel García Márquez,"Fiction, Magical Realism",4.11
+#0081,Things Fall Apart,Chinua Achebe,"Fiction, Classics, Historical",3.67
+#0082,Sense and Sensibility,Jane Austen,"Fiction, Romance, Classics",4.07
+#0083,Rebecca,Daphne du Maurier,"Fiction, Mystery, Classics",4.22
+#0084,A Portrait of the Artist as a Young Man,James Joyce,"Fiction, Classics, Bildungsroman",3.66
+#0085,The Hobbit,J.R.R. Tolkien,"Fiction, Fantasy",4.27
+#0086,The Fellowship of the Ring,J.R.R. Tolkien,"Fiction, Fantasy, Adventure",4.37
+#0087,"The Lion, the Witch and the Wardrobe",C.S. Lewis,"Fiction, Fantasy, Children's",4.22
+#0088,Slaughterhouse-Five,Kurt Vonnegut,"Fiction, Science Fiction, War",4.09
+#0089,The Stranger,Albert Camus,"Fiction, Classics, Philosophy",4.03
+#0090,The Road,Cormac McCarthy,"Fiction, Post-Apocalyptic",4.07
+#0091,The Catcher in the Rye,J.D. Salinger,"Fiction, Classics",3.81
+#0092,The Bell Jar,Sylvia Plath,"Fiction, Classics",4.08
+#0093,Animal Farm,George Orwell,"Fiction, Dystopian, Classics",3.93
+#0094,The Handmaid's Tale,Margaret Atwood,"Fiction, Dystopian, Science Fiction",4.12
+#0095,The Old Man and the Sea,Ernest Hemingway,"Fiction, Classics",3.79
+#0096,Beloved,Toni Morrison,"Fiction, Historical, Classics",3.93
+#0097,The Time Machine,H.G. Wells,"Fiction, Science Fiction, Classics",3.89
+#0098,Emma,Jane Austen,"Fiction, Romance, Classics",4.01
+#0099,The Picture of Dorian Gray,Oscar Wilde,"Fiction, Classics, Gothic",4.1
+#0100,1984,George Orwell,"Fiction, Dystopian, Science Fiction",4.18
