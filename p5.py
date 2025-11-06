@@ -1,4 +1,4 @@
-from book import book4 as b
+
 from coder import p6 as filter
 import p7 as user
 filt_book=b.books
@@ -58,4 +58,5 @@ if see=='yes':
    add.write('\n')
    add.write(a)
 add.close()
+
 print('\n*Thank you for your reseponse')
